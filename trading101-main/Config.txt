@@ -1,0 +1,7 @@
+User Master01
+token xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Amount 5%
+leverage 15
+api_key q3aMFjySMjwXbFfrwAAn64n4gvmroqGl78RvLs7dGXPI6DMtVkulYeWAdCWEycSw
+api_secret nHkYxsm6TRvbizMUyYdoNHzuaGGSiEYAakeYklfHMPus2wJW493rJDSkTy6G95rO
+notify true
