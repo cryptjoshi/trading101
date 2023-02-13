@@ -74,11 +74,6 @@ def strat_loop(data,sl,tp):
     print((profits+1).prod())
             
     
-    
-            
-            
-    
-    
     #df['SMA_50']
   
     #trading = Trading(config) #{'User':'Master','token':'xxxxxxxxxx','api_key':'yyyyyyyyyyy','api_secret':'zzzzzzzzzzz'})
